@@ -68,3 +68,4 @@ Geographic Scope: Covers major Indian states including Maharashtra, Madhya Prade
   Customer Loyalty: Identifying top customers allows for targeted "VIP" discount campaigns to improve retention.
 
 ## 6. Screenshots / Demos
+(https://github.com/nathandrake16/sales-dashboard/blob/main/Sales%20Dashboard.png)
